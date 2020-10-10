@@ -1,0 +1,8 @@
+Luke Oltmanns
+Singleton Project
+CompSci371
+
+Used the File Handling example provided for us from class and used the Singlton example also provided for us from class 
+to create a File Handling program that uses the Singlton design patern
+
+4 files have been created to read from. Only 2 are initially used in the program
